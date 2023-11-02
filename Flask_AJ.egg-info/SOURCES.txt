@@ -1,7 +1,0 @@
-README.md
-setup.py
-Flask_AJ.egg-info/PKG-INFO
-Flask_AJ.egg-info/SOURCES.txt
-Flask_AJ.egg-info/dependency_links.txt
-Flask_AJ.egg-info/requires.txt
-Flask_AJ.egg-info/top_level.txt
